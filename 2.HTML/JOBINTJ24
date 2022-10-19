@@ -1,0 +1,28 @@
+<html>
+<head><link rel="stylesheet" type="text/css" href="style.css"></head>
+<body>
+  <div class="wrapper">
+    <div class="left">
+
+
+      <img class="profile-picture" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png">
+      <h1 class="name">  JOBINTJ </h1>
+      <h4 class="subtitle">  22  </h4>
+
+
+    </div>
+    <div class="right">
+      <p class="bio">
+
+        *Random Quote*
+
+      </p>
+      <ul class="social-links">
+
+        <li><a href="https://github.com/JOBINTJ24">JOBINTJ24 </a></li>
+
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
