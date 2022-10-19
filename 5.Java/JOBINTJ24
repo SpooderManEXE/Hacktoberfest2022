@@ -1,0 +1,10 @@
+class JOBINTJ24 {
+    public static void main(String[] args) {
+
+    String name = "JOBINTJ";
+    int age = 22 ;
+    String username = "JOBINTJ24";
+
+        System.out.println("Hello!\nName: "+name+"\nAge: "+age+ "\nUsername: "+username);
+    }
+}
