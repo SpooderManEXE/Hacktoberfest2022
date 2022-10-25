@@ -1,0 +1,28 @@
+<html>
+<head><link rel="stylesheet" type="text/css" href="style.css"></head>
+<body>
+  <div class="wrapper">
+    <div class="left">
+
+
+      <img class="profile-picture" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fcartoon%2520girl%2F&psig=AOvVaw3scdHIqmeE8JfZPL06MsM8&ust=1666768340149000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNjs-ajq-voCFQAAAAAdAAAAABAD" width="200"/>
+      <h1 class="name"> Jesnamol Thomas</h1>
+      <h4 class="subtitle">  24  </h4>
+
+
+    </div>
+    <div class="right">
+      <p class="bio">
+
+       It's not a bug; it's an undocumented feature.
+
+      </p>
+      <ul class="social-links">
+
+        <li><a href="https://github.com/*yourusername*"> Jesnaa </a></li>
+
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
