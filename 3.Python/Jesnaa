@@ -1,0 +1,4 @@
+name, age = "Jesnamol Thomas", 24
+username = "Jesnaa"
+print ('Hello!')
+print("Name: {}\nAge: {}\nUsername: {}".format(name, age, username))
